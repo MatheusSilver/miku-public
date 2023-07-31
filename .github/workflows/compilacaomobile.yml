@@ -1,7 +1,5 @@
 name: Android Build
-on: workflow_dispatch
-
-  # Allows you to run this workflow manually from the Actions tab
+on:
   workflow_dispatch:
 
 jobs:
